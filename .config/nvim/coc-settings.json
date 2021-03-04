@@ -1,0 +1,45 @@
+{
+	"languageserver": {
+		"haskell": {
+			"command": "haskell-language-server-wrapper",
+			"args": ["--lsp"],
+			"rootPatterns": [
+				"*.cabal",
+				"stack.yaml",
+				"cabal.project",
+				"package.yaml",
+				".hie-bios",
+				"BUILD:bazel"
+			],
+			"filetypes": [
+				"hs",
+				"lhs",
+				"haskell"
+			],
+			"initializationOptions": {
+				"languageServerHaskell": {
+					"hintOn" : true,
+					"maxNumberOfProblems": 10,
+					"completionSnippetsOn": true
+				}
+			}
+		},
+		"purescript": {
+		   "command": "purescript-language-server",
+		   "args": ["--stdio"],
+		   "filetypes": ["purescript"],
+		   "rootPatterns": ["bower.json", "psc-package.json", "spago.dhall"]
+		},
+		"elmLS": {
+			"command": "elm-language-server",
+			"filetypes": ["elm"],
+			"rootPatterns": ["elm.json"],
+			"initializationOptions": {
+				"elmPath": "elm",
+				"elmFormatPath": "elm-format",
+				"elmTestPath": "elm-test",
+				"elmAnalyseTrigger": "change"
+			}
+		}
+	}
+}

@@ -1,0 +1,6 @@
+configuration {
+	modi: "combi";
+	font: "scientifica, Gohu GohuFont, Siji 9";
+	combi-modi: "drun,window,ssh";
+	theme: "~/.cache/wal/colors-rofi-dark.rasi";
+}

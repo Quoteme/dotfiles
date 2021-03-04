@@ -1,0 +1,4 @@
+Terminal,st,utilities-terminal
+Browser,chromium,chromium
+File manager,pcmanfm,system-file-manager
+^sep()

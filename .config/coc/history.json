@@ -1,0 +1,20 @@
+{
+  "marketplace": {
+    "%2Fhome%2Fluca%2F": {
+      "config%2Fnvim": [
+        "json",
+        "htlm",
+        "es"
+      ]
+    },
+    "%2Fhome%2Fluca%2Fdev%2Fjavascript%2FparticleLife": [
+      "tss",
+      "rust"
+    ]
+  },
+  "diagnostics": {
+    "%2Fhome%2Fluca%2Fdev%2Fjavascript%2FparticleLife": [
+      " "
+    ]
+  }
+}

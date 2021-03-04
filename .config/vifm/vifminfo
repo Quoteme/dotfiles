@@ -1,0 +1,305 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/luca/
+	..
+1569354504
+'b
+	/home/luca/bin/
+	..
+1569354504
+'h
+	/home/luca/
+	..
+1569354504
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/luca/.vim/plugged/deoplete.nvim
+	..
+0
+d/home/luca/.vim/plugged
+	deoplete.nvim
+2
+d/home/luca/.vim/plugged/deoplete.nvim
+	..
+0
+d/home/luca/.vim/plugged
+	deoplete.nvim
+2
+d/home/luca/.vim/plugged/deoplete.nvim
+	plugin
+3
+d/home/luca/.vim/plugged/deoplete.nvim/plugin
+	..
+0
+d/home/luca/.vim/plugged/deoplete.nvim
+	rplugin
+4
+d/home/luca/.vim/plugged/deoplete.nvim/rplugin
+	..
+0
+d/home/luca/.vim/plugged/deoplete.nvim
+	test
+5
+d/home/luca/.vim/plugged/deoplete.nvim/test
+	autoload
+1
+d/home/luca/.vim/plugged/deoplete.nvim/test/autoload
+	deoplete
+1
+d/home/luca/.vim/plugged/deoplete.nvim/test/autoload/deoplete
+	..
+0
+d/home/luca/.vim/plugged/deoplete.nvim/test/autoload
+	deoplete
+1
+d/home/luca/.vim/plugged/deoplete.nvim/test
+	rplugin
+2
+d/home/luca/.vim/plugged/deoplete.nvim/test/rplugin
+	..
+0
+d/home/luca/.vim/plugged/deoplete.nvim/test
+	rplugin
+2
+d/home/luca/.vim/plugged/deoplete.nvim
+	autoload
+1
+d/home/luca/.vim/plugged/deoplete.nvim/autoload
+	..
+0
+d/home/luca/.vim/plugged/deoplete.nvim
+	autoload
+1
+d/home/luca/.vim/plugged
+	deoplete.nvim
+2
+d/home/luca/.vim/plugged/deoplete.nvim
+	autoload
+1
+d/home/luca/.vim/plugged/deoplete.nvim/autoload
+	deoplete
+1
+d/home/luca/.vim/plugged/deoplete.nvim/autoload/deoplete
+	custom.vim
+2
+d/home/luca
+	Desktop
+2
+d/home/luca/Desktop
+	..
+0
+d/home/luca
+	Öffentlich
+12
+d/home/luca/dev/js
+	..
+0
+d/home/luca/dev
+	interviews
+6
+d/home/luca/dev/interviews
+	js
+1
+d/home/luca/dev/interviews/js
+	longestSubstring.js
+1
+d/home/luca/dev/interviews
+	js
+1
+d/home/luca
+	.config
+4
+d/home/luca/.config
+	mutt
+38
+d/home/luca/.config/mutt
+	..
+0
+d/home/luca/.config
+	..
+0
+d/home/luca
+	.config
+4
+d/home/luca/.config
+	mutt
+38
+d/home/luca/.config/mutt
+	muttrc
+1
+d/home/luca
+	Downloads
+4
+d/home/luca/Downloads
+	DiViNE-PGAEuropeanTourintro.7z
+7
+d/home/luca
+	.cabal
+4
+d/home/luca/.cabal
+	bin
+1
+d/home/luca/.cabal/bin
+	..
+0
+d/home/luca/.cabal
+	packages
+4
+d/home/luca/.cabal/packages
+	hackage.haskell.org
+1
+d/home/luca/.cabal/packages/hackage.haskell.org
+	..
+0
+d/home/luca/.cabal/packages
+	hackage.haskell.org
+1
+d/home/luca/.cabal
+	lib
+2
+d/home/luca/.cabal/lib
+	x86_64-linux-ghc-8.6.5
+1
+d/home/luca/.cabal
+	logs
+3
+d/home/luca/.cabal/logs
+	..
+0
+d/home/luca/.cabal
+	bin
+1
+d/home/luca/.cabal/bin
+	..
+0
+d/home/luca/.cabal
+	bin
+1
+d/home/luca/dev/haskell/math/matrix
+	dist
+1
+d/home/luca/dev/haskell/math/matrix/dist
+	build
+1
+d/home/luca/dev/haskell/math/matrix/dist/build
+	MatrixEffect
+1
+d/home/luca/dev/haskell/math/matrix/dist/build/MatrixEffect
+	autogen
+2
+d/home/luca/dev/haskell/math/matrix/dist/build/MatrixEffect/autogen
+	..
+0
+d/home/luca/dev/haskell/math/matrix/dist/build/MatrixEffect
+	..
+0
+d/home/luca/dev/haskell/math/matrix/dist/build
+	MatrixEffect
+1
+d/home/luca/dev/haskell/math/matrix/dist
+	build
+1
+d/home/luca/dev/js/story
+	..
+0
+d/home/luca/dev/rust/particles
+	src
+1
+d/home/luca/dev/rust/particles/src
+	..
+0
+d/home/luca/dev/rust/particles
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/home/luca/.vim/plugged/deoplete.nvim
+	..
+0
+D/home/luca
+	dev
+11
+D/home/luca/dev
+	js
+7
+D/home/luca/dev/js
+	interviews
+19
+D/home/luca/dev/js/interviews
+	longestSubstring.js
+1
+D/home/luca/dev/js
+	kleineWelt
+19
+D/home/luca
+	dev
+11
+D/home/luca/dev/haskell/math/matrix
+	..
+0
+D/home/luca/dev/js/story
+	..
+0
+D/home/luca/dev/rust/particles
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:mkdir interviews
+:mkdir
+:mkdir js
+:mkdir mutt
+:touch muttrc
+:q
+
+# Search history (oldest to newest):
+/dev
+/js
+/.config
+/mutt
+/con
+/mu
+/down
+/.7z
+/.cabal
+
+# Prompt history (oldest to newest):
+plongestSubstring.js
+pinterviews
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/luca/.local/share/vifm/Trash/000_MatrixEffect
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/luca/.local/share/vifm/Trash/000_MatrixEffect
+	/home/luca/.cabal/bin/MatrixEffect
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

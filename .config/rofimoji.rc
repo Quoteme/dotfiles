@@ -1,0 +1,3 @@
+files = [emojis, box_drawing, mathematical_operators, mathematical_alphanumeric_symbols, math]
+skin-tone = light
+copy-only
